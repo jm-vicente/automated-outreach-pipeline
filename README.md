@@ -62,7 +62,7 @@ This is a conceptual explanation rather than an exact reproduction of private pr
 
 ## Workflow Screenshot
 
-![Automated Outreach Pipeline](automated-outreach-pipeline/assets/workflow-overview.png)
+![Automated Outreach Pipeline](assets/workflow-overview.png)
 
 *Generalized workflow architecture illustrating scheduled processing, conditional routing, API integrations, and tracking.*
 
