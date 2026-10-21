@@ -59,13 +59,13 @@ This is a conceptual explanation rather than an exact reproduction of private pr
 | `workflow-architecture.json` | Detailed, non-runnable technical architecture: generalized nodes, connections, logic outlines, and illustrative payloads |
 | `assets/` | Space for a separately reviewed, permitted workflow screenshot |
 
-## Workflow screenshot
 
-*Add `assets/workflow-overview.png` only after checking that the screenshot is approved for sharing and contains no internal data or company-specific details.*
+## Workflow Screenshot
 
-<!-- Once the approved screenshot exists, uncomment the next line:
-![Generalized workflow overview](assets/workflow-overview.png)
--->
+![Automated Outreach Pipeline](assets/workflow-overview.png)
+
+*Generalized workflow architecture illustrating scheduled processing, conditional routing, API integrations, and tracking.*
+
 
 ## Confidentiality and limitations
 
